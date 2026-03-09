@@ -1,0 +1,18 @@
+# Laravel
+laravel-app/vendor/
+laravel-app/node_modules/
+laravel-app/storage/*.key
+laravel-app/.env
+laravel-app/bootstrap/cache/*.php
+
+# Next.js
+nextjs-app/node_modules/
+nextjs-app/.next/
+nextjs-app/.env.local
+nextjs-app/.env*.local
+
+# Common
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/settings.json
